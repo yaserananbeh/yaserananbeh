@@ -4,7 +4,7 @@
 ![1614558](https://user-images.githubusercontent.com/57394982/121431103-a3bd7a00-c981-11eb-9496-b7ba4158fd37.jpg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaserananbeh&show_icons=true&theme=radical&hide=stars) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaserananbeh&layout=compact&hide=CSS)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaserananbeh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--  &hide=CSS -->
 
