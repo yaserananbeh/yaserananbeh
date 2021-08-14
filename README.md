@@ -6,6 +6,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaserananbeh&show_icons=true&theme=radical&hide=stars) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaserananbeh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaserananbeh&theme=radical&show_icons=true" alt="yaserananbeh" /><br><br>
+</p>
+ -->
 <!--  &hide=CSS -->
 
 <!--
